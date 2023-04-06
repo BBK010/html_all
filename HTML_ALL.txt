@@ -1,0 +1,205 @@
+<html>
+    <head>
+        <tittle>HTML_ALL</tittle>
+    </head>
+    <body style="background-color: grey;">
+        
+        <h1>Hello</h1>
+        <h2>Hello</h2>
+        <h3>Hello</h3>
+        <h4>Hello</h4>
+        <h5>Hello</h5>
+        <h6>Hello</h6>
+        <p>This is a paragraph tag</p>
+        <b>This is bold</b><br>
+        <b>Click here for<b>
+            <a href="https://www.facebook.com/" target="_blank">facebook</a><br>
+            <img src="Photo/image.png" width="200" height="200">
+            <p>Hello</p>
+            <p>Hello</p>
+            <p>here</p>
+            <p>Hello<br>Hello<br>hehe</p>
+            
+            <pre>
+                This is a paragraph
+                we all know This
+                <hr>
+                ajnfakndlnasnf
+                        nlskbnfdknad
+            </pre>
+            <h1 style="background-color: rgb(31, 10, 51);"Hello</h1>
+                <p>I am doing css</p>
+                <p style="color:white; font-size: 30px;">I am Hello</p>
+                <p style="color:orange;"I am blue</p>
+                    <p style="font-size:50px; color:white; font-style: oblique;
+                    background-color: blueviolet;">I am fine</p>
+                    
+                    <p>My name is <b>Hello</b>.</p>
+                    <b>Hello</b>
+                </br>
+                <strong>Hello</strong><br>
+                <i><b>Hello</b></i><br>
+                <mark>Hello</mark><br>
+                <small>Hello</small><br>
+                <del>Hello</del><br>
+                <ins>Hello</ins><br>
+                <p>MY<sub>Hello</sub></p><br>
+                <p>MY<sup>Hello</sub></p><br>
+                    <em>Hello</em><br>
+                    <s>Hello</s>
+                    
+                    <p><q><addr title="World Health Orginazation">WHO</addr></q></p>
+                    <blockquote>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid hic
+                         velit harum ab dolore facere illo maiores, ut minima, mollitia, facilis 
+                         tempora soluta. Rerum quibusdam, illum velit beatae incidunt dolorum.
+                    </blockquote>
+                
+                <address>
+                    Hello<br>
+                    Hello,Hello
+                    Hello<br>
+                    Hello<br>
+                    Hello                    
+                </address>
+                <bdo dir="rtl">Was it a car or a cat i saw</bdo>
+               
+                <h1 style="color:yellow;">This is heading</h1>
+                <p style="color:black;">This is a paragraph</p>
+
+                <h1 style="background-color:rgb(255,99,71);"...></h1>
+                    <h1 style="background-color:#ff7";>..</h1>
+                    <h1 style="background-color:hsl(9,100%.64%);">...
+                     <table broder="1">
+                        <tr>
+                            
+                <h1 style="background-color:rgb(255,99,71);"></h1>
+                    <th rowspan="5">S.N.</th>
+                            <th>Name</th>
+                            <th colspan = "2"Address></th>
+                            <th>Contact</th>
+                        </tr>
+                        <tr style="background-color:rgb(196, 53, 27);">
+                            <td>1</td>
+                            <td>Hello</td>
+                            <td>Hello</td>
+                            <td>98000000</td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>Hello</td>
+                            <td>Hello</td>
+                            <td>98000000</td>
+                        </tr>
+                     </table>
+                    <dl>
+                        <dt>Coffee</dt>
+                        <dd>- Black hot drinks</dd>
+                        <dt>Milk</dt>
+                        <dd>- White cold drink</dd>
+                    </dl>
+                   <table style="width:100%"broder="1">
+                       <tr>
+
+<ul>
+            <li>Hello</li>
+            <li>Ichigo</li>
+            <li>Naruto</li>
+          </ul>
+          <ol>
+            <li>Hello</li>
+            <li>Ichigo</li>
+            <li>Naruto</li> 
+          </ol>
+         
+                                  
+                                   <p>Hello</p>
+          <div>kurosaki ichigo</div>
+          <span>dragon ball z</span><span>dragon ball z</span>
+          <div style="background-color: blue;">
+        <h1>Worst dragon</h1></div>
+        
+         <div style="background-color:grey;">
+            <h1>Hello</h1>
+            <p>Lorem ipsum, dolor sit amet consectetur
+                 adipisicing elit. Quaerat id ipsum aliquam
+                  molestias totam nostrum, eligendi tenetur fugiat 
+                  voluptate veritatis deleniti illum facilis laboriosam!
+                   Assumenda, ex amet. Sit, pariatur saepe.</p>
+        </div>
+        
+          <br>
+          <fieldset>
+            <legend>Fill The Form</legend>
+          <form action="registration.php"method="POST"autocomplete="on">
+          <h1>Registration Form</h1>
+        
+          <label for="fname">First name:</label><br>
+          <input type="text"id="fname"name="Hello"><br><br>
+          <label for="Mname">Middle name:</label><br>
+          <input type="text"id="Mname"name="Hello"><br><br>
+          <label for="Lname">Last name:</label><br>
+          <input type="text"id="Lname"name="Hello"><br><br>
+          <label for="bikes">Choose bikes:</label>
+          <select name="bikes"id="Bikes"size="5"multiple>
+          <option value="ducati">Ducati</option>
+          <option value="Belani">Belani</option>
+          <option value="Suzuki">Suzuki</option>
+          <option value="Honda">Honda</option>
+          <option value="Motor">Motor</option>
+          <option value="Tata">Tata</option>
+          <option value="OK">OK</option>
+          <option value="Hero">Hero</option>
+          <br><br>
+          <input type="text"name=""id=""><br><br>
+          <textarea name="messege"cols="15"rows="10"></textarea>
+          <button type="button" onclick="alert('Hello Word')">Hello</button><br><br>
+        
+          <input list="bikes">
+          <datalist id="bikes">
+          <option value="ducati">Ducati</option>
+          <option value="Belani">Belani</option>
+          <option value="Suzuki">Suzuki</option>
+          <option value="Honda">Honda</option>
+          <option value="Motor">Motor</option>
+          <option value="Tata">Tata</option>
+        </datalist>
+
+                      
+          <label width="250">Full Name:</label>
+          <input type="text" id="fullname" name="fullname" value=""placeholder="Enter your Full Name" required><br><br>
+          <label width="250">Email</label>
+          <input type="email" id="email" name="email"required ><br><br>
+          <label width="250">Password</label>
+          <input type="password" id="pass" name="pass"required ><br><br>
+          <label width="250">Phone</label>
+          <input type="number" id="num" name="num" required><br><br>
+          <label width="250">Address</label>
+          <input type="text" id="add" name="add" required><br><br>
+          <input type="radio" id="html" value="HTML"name="Hello">
+          <label for="html">HTML</label><br><br>
+          <input type="radio" id="css" value="CSS"name="Hello">
+          <label for="css">CSS</label><br><br>
+          <input type="radio" id="xml" value="XML"name="Hello">
+          <label for="xml">XML</label><br><br>
+          <input type="checkbox" id="xml" value="Bicycle"name="v1">
+          <label for="v1">Bicycle</label><br><br>
+          <input type="checkbox" id="xml" value="Bike"name="v1">
+          <label for="v1">Bike</label><br><br>
+          <input type="checkbox" id="xml" value="Car"name="v1">
+          <label for="v1">Car</label><br><br>
+          <input type="Submit" value="submit">
+          </form>
+          
+          <input type="Submit" value="submit">
+        </fieldset>
+        <label for="">Example</label>
+        <input type="datetime-local" min="2010-01-01" max="2025-01-04">
+        <input type="month">
+        <input type="number" minlength="1" maxlength="1">
+        <input type="image" src="C:\xampp\htdocs\BCA077\Photo\image.png">
+        <input type="file">
+        <input type="time">
+        <input type="reset">
+    </body>
+</html>
